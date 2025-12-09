@@ -1,0 +1,7 @@
+/vendor/
+/database/items.sqlite
+.env
+composer.lock
+.DS_Store
+.idea/
+*.log
